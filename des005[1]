@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header>
+        <h1>Amor Ideal</h1>
+        <p>de Bráulio Bessa</p>
+    </header>
+    <main>
+        <div class="opa">
+            <p>Repare, que tanta gente no mundo
+                <br>Corre em busca de um amor
+                <br>Alguém que seja ideal
+                <br>Aquela altura
+                <br>Aquela cor
+                <br>Aquele extrato bancário
+                <br>Aquele belo salário</p>        
+        </div>
+
+
+        <div class="tra" id="um">
+            <p>A quem ligue para a idade
+                <br>Para raça, religião
+                <br>Mas quem busca perfeição
+                <br>Não busca amor de verdade
+                <br>
+                <br>O ideal é amar
+                <br>Inclusive o diferente
+                <br>Afinal, que graça tem
+                <br>Amar uma cópia da gente?</p>
+        </div>
+
+
+        <div class="opa">
+            <p>Procure sem ter critérios
+                <br>O amor tem seus mistérios
+                <br>E deixa a gente atordoado
+                <br>Você sai para procurar
+                <br>E ao invés de achar
+                <br>Acaba sendo achado
+                <br>
+                <br>E quando o amor lhe acha
+                <br>Não tem para onde correr
+                <br>Finda logo essa besteira
+                <br>De mil coisas para escolher</p>
+        </div>
+
+
+        <div class="tra" id="dois">
+            <p>Finda todo preconceito
+                <br>É como se no seu peito
+                <br>Coubesse o mundo inteiro
+                <br>Com todo tipo de gente
+                <br>E aceita que o diferente
+                <br>É só alguém verdadeiro</p>
+        </div>
+
+        
+        <div class="opa">
+            <p>Percebe que a estrada é repleta de amor
+                <br>E você, nessa jornada,
+                <br>Vai sorrir, vai sentir dor
+                <br>Vai errar e acertar
+                <br>Na peleja para encontrar
+                <br>Um sentimento real
+                <br>
+                <br>E uma dica, companheiro
+                <br>Se o amor for verdadeiro,
+                <br>Já é o AMOR IDEAL.</p>
+        </div>
+
+    </main>
+    <footer>
+        <p>site criado por <strong>D'Sordes</strong> como um desafio.</p>
+
+    </footer>
+
+</body>
+</html>
